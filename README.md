@@ -1,5 +1,7 @@
 # ESG-Analysis
 ESG Analysis 📊🌱
+
+
 This repository contains a comprehensive analysis of Environmental, Social, and Governance (ESG) factors across various companies and industries. The work presented here is aimed at creating a structured, data-driven evaluation of ESG performance using both quantitative and qualitative measures.
 
 📁 Project Overview
